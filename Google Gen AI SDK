@@ -1,0 +1,2 @@
+%pip install --upgrade --quiet google-genai
+%pip install -q mediapy
